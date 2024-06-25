@@ -1,0 +1,9 @@
+{
+  "region": {
+    "prefix": "region",
+    "body": [
+      "//  region:    ===== ${1:description} ===== //\n\n${2:// code}\n\n// endregion: ===== ${1:description} ===== //\n"
+    ],
+    "description": "create a region"
+  }
+}
