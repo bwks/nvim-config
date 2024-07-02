@@ -4,3 +4,5 @@
 
 -- Line numbering
 vim.opt.relativenumber = false -- no line numbers
+
+-- LSP server for Jinja
